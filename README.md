@@ -1,1 +1,2 @@
 # odin-recipes
+This is my first website that I'm making. It will be a recipe's website. I'll start by making it only using html and will eventually use CSS when I learn to use it. For now, it will use the basic skils of html that I know of as of January 14th of 2025.
